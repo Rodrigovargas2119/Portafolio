@@ -1,5 +1,3 @@
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Portafolio Profesional - Roberto Vargas</title>
 <style>
     body {
@@ -94,8 +92,8 @@
 <div class="section">
     <h2>Proyecto Académico</h2>
     <ul>
-       <li>Sistema de Test Vocacional Inteligente: orientado a identificar el perfil profesional de estudiantes de secundaria, integrando herramientas de IA y principios psicopedagógicos.</li>
-       <li>Aplicacion web de para un restaurante criollo , con funciones especiales para las perosnas con discacidad.</li>
+        <li>Sistema de Test Vocacional Inteligente: orientado a identificar el perfil profesional de estudiantes de secundaria, integrando herramientas de IA y principios psicopedagógicos.</li>
+       <li>Aplicacion web de para un restaurante criollo , con funciones especiales para las personas con discapacidad.</li>
        <li>Aplicacion para la compra y ventas de autos.</li>
     </ul>
 </div>
